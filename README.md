@@ -5,7 +5,7 @@ A full-stack, production-ready inventory and order management system. This monor
 ## 🚀 Live Demo
 
 * **Frontend UI:** [https://guileless-moxie-cf3215.netlify.app]
-* **Backend API (Swagger Docs):** [https://ethara-backend-3x8v.onrender.com]
+* **Backend API (Swagger Docs):** [https://ethara-backend-3x8v.onrender.com/docs]
 * **Docker Hub Image:** [https://hub.docker.com/r/satyamm19/ethara-backend]
 
 ## ⚙️ Architecture & Tech Stack
